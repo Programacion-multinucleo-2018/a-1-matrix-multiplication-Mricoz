@@ -9,7 +9,7 @@
 #include <ctime>
 #include <time.h>
 
-#define SIZE 1000 // SIZE TO CHANGE
+#define SIZE 800 // SIZE TO CHANGE
 
 ////////// Function declarations //////////
 void printMatrix(int M[SIZE][SIZE]);
