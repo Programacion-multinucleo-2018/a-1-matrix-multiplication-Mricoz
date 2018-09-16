@@ -10,7 +10,7 @@
 
 #include "common.h"
 
-#define SIZE 4000
+#define SIZE 2000
 
 ////////// FUNCTION DECLARATIONS //////////
 
